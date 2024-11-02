@@ -20,4 +20,4 @@ Although the upfront time investment might be greater, TDD often leads to faster
 ## Conclusion
 Embracing TDD can lead to superior software quality, enhanced developer productivity, and a more robust design philosophy. 
 
-For a deeper dive into TDD, check out [Martin Fowler's insights on TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html).
+For a deeper dive into TDD, check out [Martin Fowler's insights on TDD](https://martinfowler.com/bliki/TestDrivenDevelopment.html) and [.NET 🚀🔥 : Mastering .NET Development with TDD with XUNIT](https://www.youtube.com/watch?v=7YghGdGE7d0&list=PLcvTyQIWJ_ZpumOgCCify-wDY_G-Kx34a&index=14).
