@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormualApp.Api", "FormualApp.Api\FormualApp.Api.csproj", "{99788DD0-911E-4B97-A52D-C1CD47AB2FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formulaApp.UnitTests", "formulaApp.UnitTests\formulaApp.UnitTests.csproj", "{5CCD0EE8-1F98-4D6B-9092-581AB1B30CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99788DD0-911E-4B97-A52D-C1CD47AB2FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99788DD0-911E-4B97-A52D-C1CD47AB2FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99788DD0-911E-4B97-A52D-C1CD47AB2FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99788DD0-911E-4B97-A52D-C1CD47AB2FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCD0EE8-1F98-4D6B-9092-581AB1B30CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCD0EE8-1F98-4D6B-9092-581AB1B30CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCD0EE8-1F98-4D6B-9092-581AB1B30CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCD0EE8-1F98-4D6B-9092-581AB1B30CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
